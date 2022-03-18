@@ -2,7 +2,7 @@
 Repositório de testes automatizados com Jasmine Framework, Curso Técnico Senai Desenvolvimento Web de Sistemas
 -----
 
-Teste  atomatizado que eu fiz com as explicacoes do Prof Carlos Uchoa utilizando os seguintes FrameWork
+Teste  automatizado que eu fiz com as explicacoes do Prof Carlos Uchoa utilizando os seguintes FrameWork
 
 - Jasmine
 - Node
