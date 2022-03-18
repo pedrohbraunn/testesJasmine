@@ -3,7 +3,7 @@ Repositório de testes automatizados com Jasmine Framework, Curso Técnico Senai
 -----
 
 Teste  atomatizado que eu fiz com as explicacoes do Prof Carlos Uchoa utilizando os seguintes FrameWork
-Paragraph:
+
 - Jasmine
 - Node
 - Nodemon
