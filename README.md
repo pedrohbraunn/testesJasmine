@@ -3,9 +3,10 @@ Repositório de testes automatizados com Jasmine Framework, Curso Técnico Senai
 -----
 
 Teste  atomatizado que eu fiz com as explicacoes do Prof Carlos Uchoa utilizando os seguintes FrameWork
--Jasmine
--Node
--Nodemon
+Paragraph:
+- Jasmine
+- Node
+- Nodemon
 
 
 Essa imagem mostra a funcao que entar comparando que a Str1 e Str2 sao iguais
