@@ -2,12 +2,11 @@
 Repositório de testes automatizados com Jasmine Framework, Curso Técnico Senai Desenvolvimento Web de Sistemas
 -----
 
-Teste que eu fiz com as explicacoes do Prof Carlos Uchoa
-<style>
-.alert-green {
-  color: rgb(60,118,61) !important;
-}
-</style>
+Teste  atomatizado que eu fiz com as explicacoes do Prof Carlos Uchoa utilizando os seguintes FrameWork
+-Jasmine
+-Node
+-Nodemon
+
 
 Essa imagem mostra a funcao que entar comparando que a Str1 e Str2 sao iguais
 ![aaaafafs](https://user-images.githubusercontent.com/85997077/158916230-0b9f8cb0-e7be-45a9-8f8d-610ec07fe7ab.PNG)
